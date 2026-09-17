@@ -1,5 +1,3 @@
-## Hi there 👯
-
 # Hi, I'm Bhavit! 🚀
 
 **Software Engineer ⚙️ | Product Manager 💡 | Founder**
